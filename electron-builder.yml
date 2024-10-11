@@ -1,5 +1,5 @@
 appId: 'launcher'
-productName: 'Nexa Launcher'
+productName: 'NexaLauncher'
 artifactName: '${productName}-Installeur.${ext}'
 
 copyright: 'Copyright © 2024 NyCremo'
