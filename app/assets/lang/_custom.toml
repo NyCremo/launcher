@@ -5,10 +5,10 @@ title = "NexaLauncher"
 
 [ejs.landing]
 mediaGitHubURL = "https://github.com/NyCremo/launcher"
-mediaTwitterURL = "#"
-mediaInstagramURL = "#"
-mediaYouTubeURL = "#"
-mediaDiscordURL = "https://discord.gg/XXX"
+mediaTwitterURL = "https://x.com/Nexaplayfr"
+mediaTiktokURL = "https://www.tiktok.com/@nexaplay.fr"
+mediaYouTubeURL = "https://www.youtube.com/@bivab_off6582"
+mediaDiscordURL = "https://discord.com/invite/nKZFdYDJRD"
 
 [ejs.settings]
 sourceGithubLink = "https://github.com/NyCremo/launcher"
