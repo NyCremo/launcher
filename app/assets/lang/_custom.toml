@@ -1,0 +1,20 @@
+# Custom Language File for Launcher Customizer
+
+[ejs.app]
+title = "NexaCraft Launcher"
+
+[ejs.landing]
+mediaGitHubURL = "https://github.com/NyCremo/launcher"
+mediaTwitterURL = "#"
+mediaInstagramURL = "#"
+mediaYouTubeURL = "#"
+mediaDiscordURL = "https://discord.gg/XXX"
+
+[ejs.settings]
+sourceGithubLink = "https://github.com/NyCremo/launcher"
+supportLink = "https://github.com/NyCremo/launcher/issues"
+
+[ejs.welcome]
+welcomeHeader = "BIENVENUE SUR NEXACRAFT"
+welcomeDescription = "NexaCraft c'est des Serveurs Minecraft Moddée Forge avec Pixelmon, Zombie, Survie Moddée... Plein de chose ... :D  /  Développer par NexaPlay.fr"
+welcomeDescCTA = "Vous n'êtes qu'à quelques clics de NexaCraft."
